@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Boomercon
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Boomer v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
